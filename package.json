@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/spanicon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Span config/icon key checks for twelve-factor services.",
+  "bin": {
+    "spanicon": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/spanicon.git"
+  },
+  "homepage": "https://theworker02.github.io/spanicon/",
+  "keywords": [
+    "span",
+    "icon",
+    "config",
+    "cli",
+    "toolkit"
+  ]
+}
